@@ -36,7 +36,7 @@ Seaborn: A library for statistical data visualization
 Scipy: A library for scientific and technical computing
 Sklearn: A library for machine learning and data mining
 
-#### Results and Conclusion
+# Results and Conclusion
 - The engagement rate (per impression) varies according to the tone of the post: Negative tone has 2.57, Neutral Tone has 2.59, and Positive Tone has 2.67. A statistical test with a p-value of 0.02 shows that this difference is not due to chance. Therefore, we can conclude that Positive Tone leads to more engagement per impression than other tones.
 
 - Using linear regression to measure the feature importance of different aspects of a post. it can be concluded that the most important features for each outcome are:
@@ -47,9 +47,7 @@ Sklearn: A library for machine learning and data mining
  - - Virality: Asking questions and using action words.
  - - Click-Through rate: Linking to other contents, using action words, and using a neutral tone.
 
-
-
-#### Recommendation
+# Recommendation
 
 Based on the above conclusions, the following are recommended.
 - To increase the engagement rate of twitter posts, use a Positive Tone in captions. This will make the posts more appealing and attractive to the audience, and encourage them to interact with the content.
