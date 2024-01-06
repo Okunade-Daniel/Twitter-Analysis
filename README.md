@@ -53,6 +53,6 @@ Based on the above conclusions, the following are recommended.
 - To increase the engagement rate of twitter posts, use a Positive Tone in captions. This will make the posts more appealing and attractive to the audience, and encourage them to interact with the content.
 - Link posts to relevant or interesting contents or posts, ask questions that invite the audience to share their opinions or experiences, and use hashtags that are popular or related to your topic to boost engagement rate per impression. 
 - Use positive tone and ask questions that show your interest in your audience or your topic to generate more likes. 
-For comments: Link your posts to other contents or posts that spark a discussion or a debate, and ask questions that challenge your audience or provoke their curiosity.
-For virality: Ask questions that are catchy, controversial, or surprising, and use action words that urge your audience to act, share, or join.
-For click-through rate: Link your posts to other contents that are informative, useful, or entertaining, use action words that create a sense of urgency, curiosity, or excitement, and use a neutral tone that is clear, concise, and professional.
+- Link posts to other contents or posts that spark a discussion or a debate, and ask questions that challenge the audience or provoke their curiosity in order to generate more comments
+- To make post go viral, ask questions that are catchy, controversial, or surprising, and use action words that urge the audience to act or share the post.
+- For click-through rate to improve, Link posts to other contents that are informative, useful, or entertaining, use action words that create a sense of urgency, curiosity, or excitement, and use a neutral tone that is clear, concise, and professional.
