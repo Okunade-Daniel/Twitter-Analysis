@@ -5,7 +5,7 @@ Social media is a powerful tool for brands to communicate with their customers, 
 # Objective
 This analysis aims to investigate the relationship between the tone and content type of social media posts and the level of engagement they generate. The analysis will focus on three types of tones: positive, neutral, and negative, and the various types of content available in the dataset.
 
-Data
+# Data
 The data used for this analysis is a sample of 8,529 Twitter (now X) posts. The data contains 147 variable including:
 
 
